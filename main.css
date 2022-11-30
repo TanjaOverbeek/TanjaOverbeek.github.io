@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=BhuTuka+Expanded+One&family=Nerko+One&family=Neucha&display=swap');
+
+body{
+    background-color: #D6E6D8;
+    color: #415D43;
+    width: 70%;
+        margin: auto;
+
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+ color: #C98686
+
+}
+a:hover, a:active{
+    color: #415D43
+
+}
+
+img {
+    width: 400px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+p {
+font-size: 30;
+font-family: 'Roboto condensed';
+text-align: left;
+margin-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Bad Script';
+    font-size: 100px;
+    text-align: left;
+    color: #C98686;
+    margin: 25px auto;
+}
+
+.links {
+    font-family: 'Bad Script';
+    font-size: 30px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
